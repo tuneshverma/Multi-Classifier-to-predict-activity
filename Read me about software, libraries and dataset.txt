@@ -1,0 +1,31 @@
+Software Used
+
+Anaconda jupyter environment was used for this project. Jupyter is a project which produces browser-based interactive 
+environments for programming, mathematics, and data science. It supports a number of languages via plugins ("kernels"), 
+such as Python, Ruby, Haskell, R, Scala and Julia.
+
+Libraries Used
+
+Pandas
+In computer programming, pandas is a software library written for the Python programming language for data manipulation 
+and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series. 
+It is free software released under the three-clause BSD license.
+
+NumPy 
+NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, 
+along with a large collection of high-level mathematical functions to operate on these arrays.
+
+Scikit-learn
+Scikit-learn (formerly scikits.learn) is a free software machine learning library for the Python programming language.
+It features various classification, regression and clustering algorithms including support vector machines,
+random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and
+scientific libraries NumPy and SciPy.
+
+TensorFlow 
+TensorFlow is an open-source software library for dataflow programming across a range of tasks. It is a symbolic math
+library, and also used for machine learning applications such as neural networks.It is used for both research and
+production at Google,? often replacing its closed-source predecessor, DistBelief.
+
+Downloading Dataset
+
+https://archive.ics.uci.edu/ml/datasets/Daily+and+Sports+Activities
